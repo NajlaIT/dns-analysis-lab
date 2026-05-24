@@ -1,0 +1,10 @@
+Observations:
+
+- Most DNS queries were for major services like Google, YouTube, LinkedIn
+- Each website request starts with DNS lookup before connection
+- DNS translates domain names into IP addresses
+- Multiple background services generate DNS traffic even without user interaction
+
+Learning Outcome:
+- Understood how domain name resolution works
+- Observed real-time DNS behavior in a live network
